@@ -1,0 +1,27 @@
+#snakeHead {
+  width: 20px;
+  height: 20px;
+  background-color: #FFCCE5;
+}
+
+#layout {
+  width: 500px;
+  height: 500px;
+  border: solid 1px;
+  border-color: #FFCCE5;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: #403339;
+}
+
+h1 {
+  color: #BF99AC;
+}
+
+button {
+  width: 100%;
+  background-color: #FFCCE5;
+}
